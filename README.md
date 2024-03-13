@@ -1,0 +1,1 @@
+In this project, the objective is to perform sentiment analysis on a retail dataset containing customer reviews of various clothing products. The main goal is to predict the sentiment expressed in the reviews, which can be positive or negative.
